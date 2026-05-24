@@ -2,9 +2,6 @@
 
 Welcome to my demo portfolio repository! This project is a front-end practice build designed to showcase a modern, responsive layout suitable for creatives, developers, or 3D artists. 
 
-## 🌐 Live Preview
-http://127.0.0.1:5500/INDEX.HTML
-
 ## 🛠️ Built With
 * HTML
 * CSS
